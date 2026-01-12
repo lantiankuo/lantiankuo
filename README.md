@@ -1,2 +1,4 @@
-# lantiankuo的神秘网站
-嗯对，这是lantiankuo学HTML时做的一个神秘网站
+<div style="text-align: center;font-size: 2em;font-weight: bold;">
+Lantiankuo
+</div>
+
