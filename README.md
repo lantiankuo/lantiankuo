@@ -1,4 +1,5 @@
-<div style="text-align: center;font-size: 2em;font-weight: bold;">
-Lantiankuo
+<link rel=stylesheet href="lan.css">
+<div id="header">
+<a href="https://github.com/lantiankuo/lantiankuo"><h1>lantiankuo</h1></a>
 </div>
 
